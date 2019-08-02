@@ -1,5 +1,5 @@
 # Motion-Planning-Search-Algorithm
-Turn_policy_on_grid.png
+![Turn Policy on Grid](Turn_policy_on_grid.png)
 
 # A* 
 ![A* detail](A_star_detail.png) 
