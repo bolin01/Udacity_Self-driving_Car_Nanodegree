@@ -1,4 +1,5 @@
 # Motion-Planning-Search-Algorithm
+The **background** of the example is shown in:
 ![Turn Policy on Grid](Turn_policy_on_grid.png)
 
 # A* 
@@ -30,8 +31,10 @@ for i in range(len(action)):
 ```
 
 # Dynamic Programming
+The key logic of implementing the turn policy using dynamic programming is shown in:
 ![Dynamic programming detail](Dynamic_programming_detail.png) 
 
+The following code shows the key steps:
 ```python
 for heading_dir in range(len(forward)):
     # Go through every motion
