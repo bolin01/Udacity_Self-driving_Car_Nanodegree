@@ -6,7 +6,7 @@ The **background** of the example is shown in:
 The key logic of implementing the turn policy using A* is shown in:
 ![A* detail](A_star_detail.png) 
 
-The following code shows the key steps:  
+The following Python code shows the key steps:  
 ```python
 for i in range(len(action)):
     # Calculate new location and heading direction
@@ -34,7 +34,7 @@ for i in range(len(action)):
 The key logic of implementing the turn policy using dynamic programming is shown in:
 ![Dynamic programming detail](Dynamic_programming_detail.png) 
 
-The following code shows the key steps:
+The following Python code shows the key steps:
 ```python
 for heading_dir in range(len(forward)):
     # Go through every motion
