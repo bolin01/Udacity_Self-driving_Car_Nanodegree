@@ -2,6 +2,6 @@
 
 
 # A* 
-![A* detail](/A_star_detail.png) 
+![A* detail](A_star_detail.png) 
 
 # Dynamic Programming
