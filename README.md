@@ -11,7 +11,7 @@ Illustration:
 </br> <!--blank line-->
 
 ## Motion-Planning-Search-Algorithm 
-Implementation of _**A***_ for discrete path planning and _**Dynamic Programming**_ for policy planning using a grid example (_Python_)
+Implementation of _**A***_ for discrete path planning and _**Dynamic Programming**_ for policy planning using a grid example (_Python_)  
 Illustration:  
 ![Turn Policy on Grid](/Motion-Planning-Search-Algorithm/Turn_policy_on_grid.png)
 
