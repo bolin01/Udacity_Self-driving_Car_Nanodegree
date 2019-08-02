@@ -1,5 +1,5 @@
 # Udacity_Self-driving_Car_Nanodegree
 Udacity Self-driving Car Nanodegree Projects 
 
-## Course 2 Kidnapped car project
+## CarND-Kidnapped-Vehicle-Project: Course 2 Project on Vehicle State Estimation using Particle Filter 
 
