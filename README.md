@@ -5,7 +5,7 @@ Udacity Self-driving Car Nanodegree Projects
 
 ## CarND-Kidnapped-Vehicle-Project [Course Project]
 Course 2 Project on _**Vehicle State Estimation**_ using _**Particle Filters**_ (_C++_)  
-Screenshot:
+Screenshot:  
 ![Kidnapped Car Project Illustration](/CarND-Kidnapped-Vehicle-Project/Kidnapped-car-project-illustration.png)
 
 </br> <!--blank line-->
